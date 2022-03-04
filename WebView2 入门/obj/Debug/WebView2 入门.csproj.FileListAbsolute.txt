@@ -1,0 +1,22 @@
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\WebView2 入门.exe.config
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\WebView2 入门.exe
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\WebView2 入门.pdb
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2 入门.csproj.AssemblyReference.cache
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2 入门.csproj.SuggestedBindingRedirects.cache
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2_入门.Form1.resources
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2_入门.Properties.Resources.resources
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2 入门.csproj.GenerateResource.cache
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2 入门.csproj.CoreCompileInputs.cache
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2 入门.csproj.CopyComplete
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2 入门.exe
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2 入门.pdb
+D:\工作文件\测试代码\WebView2 入门\WebView2 入门\obj\Debug\WebView2_入门.Form_Download.resources
